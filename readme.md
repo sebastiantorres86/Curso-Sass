@@ -11,5 +11,6 @@ La segunda y más antigua sintaxis, conocida como sintaxis con sangría (o, a ve
 Esta sección presenta las características básicas de Sass.
 
 ----
-[ir a la primera clase]()
-[Ver el plan de estudios]()
+[Ir a la primera clase](https://github.com/sebastiantorres86/Curso-Sass/blob/master/01-almacenar-datos-con-variables-sass.md)
+
+[Ver el plan de estudios](https://github.com/sebastiantorres86/Curso-Sass/blob/master/curriculum.md)
